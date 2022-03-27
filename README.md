@@ -23,4 +23,8 @@
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/RDXLR/repos?time_range=one_year&theme=ferns)](https://githubtrends.io)
 </p>
 
+<p align="center">
+<a href="https://github.com/noob-hackers"><img title="noob-hackers" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Noob-hackers&layout=compact"></a>
+</p>
+
 ### Expect and always try for a BIG!!!
