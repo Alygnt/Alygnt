@@ -1,6 +1,10 @@
 # Hi, I'M A LIMITED EDITION
 
 <p align="center">
+<img src="https://raw.githubusercontent.com/RDXLR/RDXLR/main/IMG/rdxlr_logo_gif.gif">
+</p>
+
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=RDXLR&show_icons=true&theme=radical">
 </p>
 
