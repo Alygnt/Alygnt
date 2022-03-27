@@ -1,7 +1,5 @@
-### Hi, I'M A LIMITED EDITION
+# Hi, I'M A LIMITED EDITION
 
-
-# My stats
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=RDXLR&show_icons=true&theme=radical">
 </p>
