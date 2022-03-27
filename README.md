@@ -2,6 +2,7 @@
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/RDXLR/RDXLR/main/IMG/rdxlr_logo_gif.gif">
+<img src="https://raw.githubusercontent.com/RDXLR/RDXLR/main/IMG/keyboard.gif">
 </p>
 
 ## Know More about me >>>
