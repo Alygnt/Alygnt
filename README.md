@@ -27,13 +27,8 @@
 <a href="https://github.com/RDXLR/MSF-CloudShell" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RDXLR&repo=MSF-CloudShell&theme=radical"></a>
 </p>
  
-<p align="center">
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/RDXLR/langs?time_range=one_year&theme=bright_lights)](https://githubtrends.io)
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/RDXLR/repos?time_range=one_year&theme=ferns)](https://githubtrends.io)
-</p>
-
-<p align="center">
-<a href="https://github.com/RDXLR"><img title="RDXLR" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RDXLR&layout=compact"></a>
+<p align='center'>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RDXLR&show_icons=true&hide_border=true&theme=radical">
 </p>
 
 ### Expect and always try for a BIG!!!
