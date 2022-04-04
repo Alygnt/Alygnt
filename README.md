@@ -25,6 +25,7 @@
 <a href="https://github.com/RDXLR/Forward-SMS" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RDXLR&repo=Forward-SMS&theme=radical"></a>
 <a href="https://github.com/RDXLR/keylogger" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RDXLR&repo=Keylogger&theme=radical"></a>
 <a href="https://github.com/RDXLR/lhip" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RDXLR&repo=LHIP&theme=radical"></a>
+<a href="https://github.com/RDXLR/plit" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RDXLR&repo=PLIT&theme=radical"></a>
 <a href="https://github.com/RDXLR/MSF-payload-autostart" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RDXLR&repo=MSF-payload-autostart&theme=radical"></a>
 <a href="https://github.com/RDXLR/MSF-CloudShell" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RDXLR&repo=MSF-CloudShell&theme=radical"></a>
 </p>
