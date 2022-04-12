@@ -13,6 +13,7 @@
 
 <p align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRDXLR&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+<br>
 <img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=RDXLR-admin" />
 </p>
 
@@ -30,5 +31,7 @@
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RDXLR&show_icons=true&hide_border=true&theme=radical">
 </p>
+(https://api.githubtrends.io/user/svg/rdxlr/repos?time_range=one_year&theme=ferns)](https://githubtrends.io)
 
+# SEE U SOON....
 ### Expect and always try for a BIG!!!
