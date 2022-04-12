@@ -21,17 +21,15 @@
 <a href="https://github.com/RDXLR/NPhisher" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RDXLR&repo=NPhisher&theme=radical"></a>
 <a href="https://github.com/RDXLR/LPhisher" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RDXLR&repo=LPhisher&theme=radical"></a>
 <a href="https://github.com/RDXLR/Tunneler" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RDXLR&repo=Tunneler&theme=radical"></a>
-<a href="https://github.com/RDXLR/fl00d-wifi" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RDXLR&repo=fl00d-wifi&theme=radical"></a>
-<a href="https://github.com/RDXLR/Forward-SMS" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RDXLR&repo=Forward-SMS&theme=radical"></a>
-<a href="https://github.com/RDXLR/keylogger" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RDXLR&repo=Keylogger&theme=radical"></a>
-<a href="https://github.com/RDXLR/plit" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RDXLR&repo=PLIT&theme=radical"></a>
-<a href="https://github.com/RDXLR/MSF-payload-autostart" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RDXLR&repo=MSF-payload-autostart&theme=radical"></a>
+<a href="https://github.com/RDXLR/fl00d-wifi" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RDXLR&repo=fl00d-wifi&theme=midnight-purple"></a>
+<a href="https://github.com/RDXLR/Forward-SMS" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RDXLR&repo=Forward-SMS&theme=midnight-purple"></a>
+<a href="https://github.com/RDXLR/keylogger" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RDXLR&repo=Keylogger&theme=midnight-purple"></a>
+<a href="https://github.com/RDXLR/plit" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RDXLR&repo=PLIT&theme=midnight-purple"></a>
+<a href="https://github.com/RDXLR/MSF-payload-autostart" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RDXLR&repo=MSF-payload-autostart&theme=midnight-purple"></a>
 </p>
  
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RDXLR&show_icons=true&hide_border=true&theme=radical">
 </p>
-(https://api.githubtrends.io/user/svg/rdxlr/repos?time_range=one_year&theme=ferns)](https://githubtrends.io)
 
-# SEE U SOON....
 ### Expect and always try for a BIG!!!
