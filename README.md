@@ -32,9 +32,7 @@
 </p>
  
 ## Basic Stats >>>
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RDXLR&show_icons=true&hide_border=true&theme=radical">
-</p>
-(https://api.githubtrends.io/user/svg/RDXLR/repos?time_range=one_year&theme=synthwaves)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/RDXLR/langs?time_range=one_year&theme=synthwaves)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/RDXLR/repos?time_range=one_year&theme=synthwaves)](https://githubtrends.io)
 
 ### Expect and always try for a BIG!!!
