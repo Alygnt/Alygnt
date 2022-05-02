@@ -5,7 +5,7 @@
 <img src="https://raw.githubusercontent.com/RDXLR/RDXLR/main/IMG/keyboard.gif">
 </p>
 
-## Know More about me >>>
+## Know More about me >>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=RDXLR&show_icons=true&theme=radical">
@@ -25,7 +25,7 @@
 <img align="center" alt="visitors" src="https://visitor-badge.glitch.me/badge?page_id=RDXLR-admin&style=flat-square" />
 </p>
 
-## Developer of >>>
+## Developer of >>
 
 <p align="center">
 <a href="https://github.com/RDXLR/NPhisher" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RDXLR&repo=NPhisher&theme=radical"></a>
@@ -39,7 +39,7 @@
 <a href="https://github.com/RDXLR/MSF-payload-autostart" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RDXLR&repo=MSF-payload-autostart&theme=radical"></a>
 </p>
  
-## Basic Stats >>>
+## Basic Stats >>
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/RDXLR/langs?time_range=one_year&theme=synthwaves)](https://githubtrends.io)
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/RDXLR/repos?time_range=one_year&theme=synthwaves)](https://githubtrends.io)
 
