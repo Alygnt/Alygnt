@@ -34,7 +34,7 @@
 <a href="https://github.com/RDXLR/Metasploit-Termux" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RDXLR&repo=Metasploit-Termux&theme=radical"></a>
 <a href="https://github.com/RDXLR/fl00d-wifi" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RDXLR&repo=fl00d-wifi&theme=radical"></a>
 <a href="https://github.com/RDXLR/Forward-SMS" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RDXLR&repo=Forward-SMS&theme=radical"></a>
-<a href="https://github.com/RDXLR/keylogger" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RDXLR&repo=Keylogger&theme=radical"></a>
+<a href="https://github.com/RDXLR/Mailogger" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RDXLR&repo=Mailogger&theme=radical"></a>
 <a href="https://github.com/RDXLR/plit" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RDXLR&repo=PLIT&theme=radical"></a>
 <a href="https://github.com/RDXLR/MSF-payload-autostart" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RDXLR&repo=MSF-payload-autostart&theme=radical"></a>
 </p>
