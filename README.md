@@ -32,6 +32,9 @@
 <a href="https://github.com/RDXLR/LPhisher" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RDXLR&repo=LPhisher&theme=radical"></a>
 <a href="https://github.com/RDXLR/Tunneler" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RDXLR&repo=Tunneler&theme=radical"></a>
 <a href="https://github.com/RDXLR/Metasploit-Termux" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RDXLR&repo=Metasploit-Termux&theme=radical"></a>
+<a href="https://github.com/RDXLR/Nethunter-Termux" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RDXLR&repo=Nethunter-Termux&theme=radical"></a>
+<a href="https://github.com/RDXLR/Webgoat-Termux" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RDXLR&repo=Webgoat-Termux&theme=radical"></a>
+<a href="https://github.com/RDXLR/Ubuntu-Termux" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RDXLR&repo=Ubuntu-Termux&theme=radical"></a>
 <a href="https://github.com/RDXLR/fl00d-wifi" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RDXLR&repo=fl00d-wifi&theme=radical"></a>
 <a href="https://github.com/RDXLR/Forward-SMS" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RDXLR&repo=Forward-SMS&theme=radical"></a>
 <a href="https://github.com/RDXLR/Mailogger" ><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RDXLR&repo=Mailogger&theme=radical"></a>
