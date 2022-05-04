@@ -46,4 +46,12 @@
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/RDXLR/langs?time_range=one_year&theme=synthwaves)](https://githubtrends.io)
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/RDXLR/repos?time_range=one_year&theme=synthwaves)](https://githubtrends.io)
 
-### Expect and always try for a BIG!!!
+## I'm also in >>
+<p align="center">
+<a href="https://github.com/RDXLR" ><img align="center" src="https://raw.githubusercontent.com/RDXLR/rdxlr.github.io/main/socialmedia/pics/github.png"></a>
+<a href="https://gitlab.com/RDXLR" ><img align="center" src="https://raw.githubusercontent.com/RDXLR/rdxlr.github.io/main/socialmedia/pics/gitlab.png"></a>
+<a href="https://instagram.com/rdxlr0/" ><img align="center" src="https://raw.githubusercontent.com/RDXLR/rdxlr.github.io/main/socialmedia/pics/instagram.png"></a>
+<a href="#" ><img align="center" src="https://raw.githubusercontent.com/RDXLR/rdxlr.github.io/main/socialmedia/pics/facebook.png"></a>
+<a href="#" ><img align="center" src="https://raw.githubusercontent.com/RDXLR/rdxlr.github.io/main/socialmedia/pics/twitter.png"></a>
+
+## Expect and always try for a BIG!!!
