@@ -49,10 +49,10 @@
 ## I'm also in >>
 <p align="center">
 <a href="https://github.com/RDXLR" ><img align="center" src="https://raw.githubusercontent.com/RDXLR/rdxlr.github.io/main/socialmedia/pics/github.png" width="150"></a>
-<a href="https://gitlab.com/RDXLR" ><img align="center" src="https://raw.githubusercontent.com/RDXLR/rdxlr.github.io/main/socialmedia/pics/gitlab.png"></a>
-<a href="https://instagram.com/rdxlr0/" ><img align="center" src="https://raw.githubusercontent.com/RDXLR/rdxlr.github.io/main/socialmedia/pics/instagram.png"></a>
-<a href="#" ><img align="center" src="https://raw.githubusercontent.com/RDXLR/rdxlr.github.io/main/socialmedia/pics/facebook.png"></a>
-<a href="#" ><img align="center" src="https://raw.githubusercontent.com/RDXLR/rdxlr.github.io/main/socialmedia/pics/twitter.png"></a>
+<a href="https://gitlab.com/RDXLR" ><img align="center" src="https://raw.githubusercontent.com/RDXLR/rdxlr.github.io/main/socialmedia/pics/gitlab.png" width="150"></a>
+<a href="https://instagram.com/rdxlr0/" ><img align="center" src="https://raw.githubusercontent.com/RDXLR/rdxlr.github.io/main/socialmedia/pics/instagram.png width="150""></a>
+<a href="#" ><img align="center" src="https://raw.githubusercontent.com/RDXLR/rdxlr.github.io/main/socialmedia/pics/facebook.png"  width="150"></a>
+<a href="#" ><img align="center" src="https://raw.githubusercontent.com/RDXLR/rdxlr.github.io/main/socialmedia/pics/twitter.png"  width="150"></a>
 </p>
 
 ## Expect and always try for a BIG!!!
