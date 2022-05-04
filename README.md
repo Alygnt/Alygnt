@@ -48,11 +48,11 @@
 
 ## I'm also in >>
 <p align="center">
-<a href="https://github.com/RDXLR"><img title="Github" src="https://img.shields.io/badge/rdxlr-grey?style=for-the-badge&logo=github"></a>
-<a href="https://gitlab.com/RDXLR"><img title="Gitlab" src="https://img.shields.io/badge/rdxlr-orange?style=for-the-badge&logo=gitlab"></a>
-<a href="https://instagram.com/rdxlr0/"><img title="Instagram" src="https://img.shields.io/badge/rdxlr-pink?style=for-the-badge&logo=instagram"></a>
-<a href="#"><img title="Facebook" src="https://img.shields.io/badge/rdxlr-blue?style=for-the-badge&logo=facebook"></a>
-<a href="#"><img title="Twitter" src="https://img.shields.io/badge/rdxlr-lightblue?style=for-the-badge&logo=twitter"></a>
+<a href="https://github.com/RDXLR"><img title="Github" src="https://img.shields.io/badge/rdxlr-white?style=for-the-badge&logo=github"></a>
+<a href="https://gitlab.com/RDXLR"><img title="Gitlab" src="https://img.shields.io/badge/rdxlr-white?style=for-the-badge&logo=gitlab"></a>
+<a href="https://instagram.com/rdxlr0/"><img title="Instagram" src="https://img.shields.io/badge/rdxlr-white?style=for-the-badge&logo=instagram"></a>
+<a href="#"><img title="Facebook" src="https://img.shields.io/badge/rdxlr-white?style=for-the-badge&logo=facebook"></a>
+<a href="#"><img title="Twitter" src="https://img.shields.io/badge/rdxlr-white?style=for-the-badge&logo=twitter"></a>
 
 <a href="https://github.com/RDXLR" ><img align="center" src="https://raw.githubusercontent.com/RDXLR/rdxlr.github.io/main/socialmedia/pics/github.png"></a>
 <a href="https://gitlab.com/RDXLR" ><img align="center" src="https://raw.githubusercontent.com/RDXLR/rdxlr.github.io/main/socialmedia/pics/gitlab.png"></a>
