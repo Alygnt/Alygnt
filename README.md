@@ -53,9 +53,9 @@
 <p align="center">
 <a href="https://github.com/Alygnt" ><img align="center" src="https://raw.githubusercontent.com/Alygnt/alygnt.github.io/main/socialmedia/pics/github.png" width="150"></a>
 <a href="https://gitlab.com/Alygnt" ><img align="center" src="https://raw.githubusercontent.com/Alygnt/alygnt.github.io/main/socialmedia/pics/gitlab.png" width="150"></a>
-<a href="#" ><img align="center" src="https://raw.githubusercontent.com/Alygnt/alygnt.github.io/main/socialmedia/pics/instagram.png" width="150"></a>
-<a href="#" ><img align="center" src="https://raw.githubusercontent.com/Alygnt/alygnt.github.io/main/socialmedia/pics/facebook.png"  width="150"></a>
-<a href="#" ><img align="center" src="https://raw.githubusercontent.com/Alygnt/alygnt.github.io/main/socialmedia/pics/twitter.png"  width="150"></a>
+<a href="https://instagram.com/mralygnt" ><img align="center" src="https://raw.githubusercontent.com/Alygnt/alygnt.github.io/main/socialmedia/pics/instagram.png" width="150"></a>
+<a href="https://www.facebook.com/profile.php?id=61552517980412" ><img align="center" src="https://raw.githubusercontent.com/Alygnt/alygnt.github.io/main/socialmedia/pics/facebook.png"  width="150"></a>
+<a href="https://twitter.com/alygnt" ><img align="center" src="https://raw.githubusercontent.com/Alygnt/alygnt.github.io/main/socialmedia/pics/twitter.png"  width="150"></a>
 </p>
 
 ## Expect and always try for a BIG!!!
