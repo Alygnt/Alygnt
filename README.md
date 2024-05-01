@@ -1,4 +1,6 @@
-# Hi, I'M A LIMITED EDITION
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=F70396&center=true&vCenter=true&random=false&width=525&lines=I'm+ALYGNT;I'm+a+LIMITED+EDITION" alt="Typing SVG" /></a>
+</p>
 
 <link rel="icon" type="image/x-icon" href="https://rdxlr.github.io/logo/favicon.ico">
 
@@ -8,6 +10,10 @@
 </p>
 
 ## Know More about me >>
+
+<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Alygnt&theme=radical" alt="GitHub Streak" /></a>
+</p>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Alygnt&show_icons=true&theme=radical">
